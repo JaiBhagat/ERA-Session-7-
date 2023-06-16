@@ -1,6 +1,6 @@
 # Exploring Different Models to Achieve 99.4% accuracy with less than 8K Parameters under 15 Epochs using MNIST dataset.
 
-# Model Architecture
+# Model Varients
 
 The model has four major versions:
 
