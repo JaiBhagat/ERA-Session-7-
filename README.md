@@ -126,7 +126,7 @@ def forward(self, x):
     x = self.model(x)
     x = x.view(-1, 10)
     return F.log_softmax(x, dim=-1)
-
+```
 
 ## Contributing
 
